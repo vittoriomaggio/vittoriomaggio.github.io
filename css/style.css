@@ -44,6 +44,18 @@ p {
     justify-content: space-between;
 }
 
+.wrapper_project{
+    display: flex;
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+
 /* bg color nav-bar */
 .bg-light {
     background-color: #fff!important;

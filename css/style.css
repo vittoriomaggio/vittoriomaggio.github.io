@@ -230,3 +230,13 @@ h5 {
     background-color: rgb(0 123 255 / 50%)!important;
     
 }
+
+
+button.a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+
+.button_big:hover{
+    text-decoration: none;
+}

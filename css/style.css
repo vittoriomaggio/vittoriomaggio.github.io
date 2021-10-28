@@ -240,3 +240,19 @@ button.a:hover{
 .button_big:hover{
     text-decoration: none;
 }
+
+.card_icon{
+    color: #000;
+}
+
+.card_icon:hover{
+    color: #353839;
+}
+
+.contact_icon{
+    color: #fff;
+}
+
+.contact_icon:hover{
+    transform: translate(2px, 2px);    
+}
